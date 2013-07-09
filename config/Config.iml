@@ -16,10 +16,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-  </component>
-  <component name="RModuleSettingsStorage">
-    <LOAD_PATH number="0" />
-    <I18N_FOLDERS number="1" string0="$MODULE_DIR$/locales" />
+    <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.7, ruby-2.0.0-p247) [gem]" level="application" />
   </component>
 </module>
 
