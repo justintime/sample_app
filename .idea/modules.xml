@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config/Config.iml" filepath="$PROJECT_DIR$/config/Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/controllers/Controllers.iml" filepath="$PROJECT_DIR$/app/controllers/Controllers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/db/Db.iml" filepath="$PROJECT_DIR$/db/Db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/helpers/Helpers.iml" filepath="$PROJECT_DIR$/app/helpers/Helpers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spec/Spec.iml" filepath="$PROJECT_DIR$/spec/Spec.iml" />
+    </modules>
+  </component>
+</project>
+
